@@ -17,3 +17,10 @@ console.log(email);
 console.log(number);
 
 console.table([account, email, number]);
+
+let a = 30;
+let b = 30;
+
+a = a + b;
+
+console.log(a);
