@@ -37,3 +37,13 @@ const myFunction = function() {
 
 console.log(myDetails)
 console.log(typeof(myFunction))
+
+
+
+const testFunction = function(a, b) {
+
+    return a * b;
+
+}
+
+console.log(typeof(testFunction(10, 20)))
