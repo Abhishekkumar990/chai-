@@ -24,3 +24,7 @@ let b = 30;
 a = a + b;
 
 console.log(a);
+
+const letter = "This is the main perpose is the test the coder strngth og the code and being of computer";
+const funLetter = "This is the story about the anime stroy of a jungal-book and its all junarny";
+console.table([letter, funLetter])
